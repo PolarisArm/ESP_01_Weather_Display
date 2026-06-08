@@ -66,7 +66,7 @@ lib_deps =
     adafruit/DHT sensor library
 ```
 
-## PlatformIO Example
+## PlatformIO
 
 ```ini
 [env:esp12e]
